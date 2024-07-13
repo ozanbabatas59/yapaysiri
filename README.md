@@ -1,1 +1,1 @@
-https://labs.perplexity.ai sitesinde llma modellerinde çalışabilirsiniz
+Kullanıcının sesli olarak karşılıklı konuşmasını sağlar. öğret modunu çalıştırığında soru ve cevapları söyleyerek kaydetmesini sağlar. 
